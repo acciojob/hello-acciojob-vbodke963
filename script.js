@@ -1,1 +1,12 @@
-//your code here
+ main.accio#job {
+      width: 150px;
+      height: 150px;
+      background-color: #000000;
+    }
+
+     
+    .hello-accio {
+      color: #ffffff;
+      margin-left: 32px;
+      padding: 10px;
+    }
